@@ -1,0 +1,11 @@
+.Form {
+  justify-content: space-around;
+  display: flex;
+}
+* {
+  background-color: black;
+  color: mintcream;
+}
+.btn {
+  margin: 5 auto;
+}
